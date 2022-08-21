@@ -10,4 +10,3 @@ const randSign = (arr) => {
 console.log(randSign(signs));
 
 // control return
-// another try
